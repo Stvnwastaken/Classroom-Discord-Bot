@@ -1,0 +1,25 @@
+{
+  "name": "Classroom-Discord-Bot",
+  "version": "1.0.0",
+  "description": "A discord bot for google classroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightLordYT/Classroom-Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LightLordYT/Classroom-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/LightLordYT/Classroom-Discord-Bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.3.1"
+  }
+}
