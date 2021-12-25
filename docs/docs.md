@@ -1,4 +1,4 @@
-# Official Classroom Bot Documentation
+# Official Classroom Bot Documentation V1.0.0
 
 # Contents
 

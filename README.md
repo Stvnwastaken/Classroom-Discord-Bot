@@ -35,11 +35,18 @@ To use the Classroom bot, first remember to [install](https://github.com/LightLo
 # Contact Information
 
 Discord: LightLord#4261
+
 Classroom Bot Discord: Not Available
 
 # Changelog
 
 Version 1.0.0 (stable)
+
+	Features:
+	
+- [x] List All Commands
+- [x] Help Command
+- [x] Github Command
 
 # Credits
 
