@@ -30,7 +30,7 @@ To install the Classroom bot, click this link and invite it to your preferred se
 
 # Usage
 
-To use the Classroom bot, first remember to [install](https://github.com/LightLordYT/Classroom-Discord-Bot/blob/main/README.md#installation) it through discord. After installation, read the [docs]()
+To use the Classroom bot, first remember to [install](https://github.com/LightLordYT/Classroom-Discord-Bot/blob/main/README.md#installation) it through discord. After installation, read the [docs](https://github.com/LightLordYT/Classroom-Discord-Bot/blob/docs/docs.md)
 
 # Contact Information
 
