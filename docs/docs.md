@@ -2,6 +2,6 @@
 
 # Contents
 
-[All Commands](https://github.com/LightLordYT/blob/docs/docs.md#all-commands)
+[All Commands](https://github.com/LightLordYT/blob/main/docs/docs.md#all-commands)
 
 # All Commands
