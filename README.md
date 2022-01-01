@@ -16,13 +16,15 @@
 # Features
 
 - [ ] classroom post notify
-- [x] custom prefix
+- [x] unique prefix
 - [x] help command
+- [x] speak command
 - [ ] account check for classroom
 - [ ] pick classroom
 - [ ] customization of classroom choice
 - [ ] do assignments when on discord
 - [ ] turn in assignments through discord
+- [ ] music commands
 
 # Installation
 
@@ -44,15 +46,17 @@ Version 1.0.0 (stable)
 
 	Features:
 	
-- [x] List All Commands
 - [x] Help Command
 - [x] Github Command
+- [x] Speak Command
+- [x] Clear Command
 
 # Credits
 
 Developer(s): LightLord
+
 Contributors: 
 
 # About
 
-The Classroom Bot is a bot that is being developed by Steven in order to update post-notify automatically when there is a new post on google classroom. The Classroom bot will also have many other features including the ability to do assignments and turn in assignments, all from Discord! As the bot grows, more features will be made available, such as reaction roles and more!
+The Classroom Bot is a bot that is being developed by LightLord in order to update post-notify automatically when there is a new post on google classroom. The Classroom bot will also have many other features including the ability to do assignments and turn in assignments, all from Discord! As the bot grows, more features will be made available, such as reaction roles and more!
