@@ -25,7 +25,7 @@ Note: Documentation only gives usage of latest stable version(v1.0.0)
 **Help Command:**
 *Required Permissions: none*
 
-*Syntax: gc/help*
+*Syntax: gc/help or gc/help <commandhere>*
 
 *Info: Provides commands and useful links etc*
 
