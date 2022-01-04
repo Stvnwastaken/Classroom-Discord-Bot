@@ -25,6 +25,7 @@
 - [ ] do assignments when on discord
 - [ ] turn in assignments through discord
 - [ ] music commands
+- [x] moderation commands
 
 # Installation
 
@@ -49,7 +50,7 @@ Version 1.0.0 (stable)
 - [x] Help Command
 - [x] Github Command
 - [x] Speak Command
-- [x] Clear Command
+- [x] Moderation Commands
 
 # Credits
 

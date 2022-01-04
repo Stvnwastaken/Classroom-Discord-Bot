@@ -4,8 +4,8 @@ module.exports = {
  execute(messages, args){
 	 const member = messages.mentions.users.first()
 	 if(member){
-		 const memberTarger = messages.guild.members.cache.get(member.id)
-		 memberTarger.ban()
+		 const memberTargert = messages.guild.members.cache.get(member.id)
+		 memberTargetr.ban()
 		 messages.channel.send(`${member} has been banned.`)
 	 }else{
 		 messages.channel.send('You could not ban that member')

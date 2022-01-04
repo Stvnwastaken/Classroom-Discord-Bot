@@ -21,6 +21,9 @@ bot.once('ready', () => {
 	const cc = bot.channels.cache.get('918665887312130118')
 	cc.send('Classroom Bot now online! <@&918667403196518450>')
 	cc.send('Classroom Bot server restarted, updates should appear shortly.')
+	const kc = bot.channels.cache.get('887411039552032800')
+	kc.send('Classroom Bot now online! <@&927766262015230003>')
+	kc.send('Classroom Bot server restarted, updates should appear shortly.')
 	bot.user.setActivity('gc/help')
 })
 
